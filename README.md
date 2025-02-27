@@ -11,7 +11,7 @@
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Always looking for new challenges
 - 😄 Pronouns: **He/Him** 
-- 🌐 Visit my [porfolio website]([https://Div/](https://divinerx.vercel.app/)) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://divinerx.vercel.app/) for complete background and contact.
 
 ## 🔨 Languages and Tools:
 
