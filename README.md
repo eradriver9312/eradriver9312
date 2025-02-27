@@ -1,17 +1,4 @@
-<h2 align="center"> Hi 👋, I'm Diviner X</h2>
-
-<div align ="center">  
-  
-[![Intro](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=I+am+an+AI-fullstack+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+Work+primarily+in+python+typescript)](https://git.io/typing-svg)
-</div>
-
-<div align ="center">
- <em> Visitor count 👇</em>
-  <br>
-  <br>
-  <img src="http://anime-page-counter.glitch.me/get/@:DivinerX" alt=":DivinerX"/>
-</div>
-<br>
+<h2 align="center"> Hi 👋, I'm Era Driver</h2>
 
 ## 😊 About Me
 
@@ -19,7 +6,7 @@
 
 - 🔭 I’m currently working on  **AI-fullstack Development** with python
 - :neutral_face: I **love**  programming and tinkering with new technologies
-- 🌱 I’m currently Working with **Python, Typescript**
+- 🌱 I’m currently Working with **Python, Typescript, Next.js**
 - 🎓 I’m currently learning Batch Processing ,Caching mechanisms and search optimizations
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Always looking for new challenges
@@ -54,16 +41,3 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height=50 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height=50 width=50 />
 </div>
-
-## 📊 Github Stats
-
-<div name ="stats">
-  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivinerX&theme=radical"/>
-  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivinerX&theme=radical"/>
-  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DivinerX&theme=radical"/>
-</div>
-<!--
-## 🥽 3-D Contribution graph
-
-<img src="https://github.com/DivinerX/DivinerX/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
--->
